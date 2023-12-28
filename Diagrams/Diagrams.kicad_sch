@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 26f53a9d-8d3d-4195-9261-6c21d876746a)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 36.83 35.56) (size 41.91 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid aae4a8ea-277a-4fa9-88a0-044d0dca9c44)
+    (property "Sheetname" "Clock" (at 36.83 34.8484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "clock.kicad_sch" (at 36.83 55.1946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Diagrams"
+        (path "/26f53a9d-8d3d-4195-9261-6c21d876746a" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
